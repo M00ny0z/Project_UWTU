@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0ec8a31d01bf239506110db244bd0108\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d36a64a139d83aac7b6de16676b316a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fefeb0790a39d4ba745fb812a7d6483f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4d55b95e323e30c4ab62352ba31f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d417f827883814b9e4aa325d12de131\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2f544d9c0f9adca5e9756581f3700807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2130c4a4de1977b2503b515df3eeb7a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c4c86d7b7049a7a91b0bfc89dde8ea0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\124942228c7666878340fdf1652f1dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc15bce680d37595306295333921ae67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7349e561c55e137f343d37d8a89e249f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046f9aeb56818fde2f578d86de852083\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a215f561837d77a7be8cd67afcf2eb46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da681b5534f903bbc83452e3a68eb277\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\baab70db8320e35980f5b436f6c3f575\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8f7c6e1e7a434ecfa6109b23b9f8b8f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2692a2501ebf60ca132b82ce1c915691\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fefeb0790a39d4ba745fb812a7d6483f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fefeb0790a39d4ba745fb812a7d6483f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:11:9-40
+activity#m.munoz.uwtu.MainActivity
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0ec8a31d01bf239506110db244bd0108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0ec8a31d01bf239506110db244bd0108\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d36a64a139d83aac7b6de16676b316a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d36a64a139d83aac7b6de16676b316a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fefeb0790a39d4ba745fb812a7d6483f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fefeb0790a39d4ba745fb812a7d6483f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4d55b95e323e30c4ab62352ba31f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4d55b95e323e30c4ab62352ba31f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d417f827883814b9e4aa325d12de131\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d417f827883814b9e4aa325d12de131\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2f544d9c0f9adca5e9756581f3700807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2f544d9c0f9adca5e9756581f3700807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2130c4a4de1977b2503b515df3eeb7a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2130c4a4de1977b2503b515df3eeb7a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c4c86d7b7049a7a91b0bfc89dde8ea0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c4c86d7b7049a7a91b0bfc89dde8ea0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\124942228c7666878340fdf1652f1dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\124942228c7666878340fdf1652f1dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc15bce680d37595306295333921ae67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc15bce680d37595306295333921ae67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7349e561c55e137f343d37d8a89e249f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7349e561c55e137f343d37d8a89e249f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046f9aeb56818fde2f578d86de852083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046f9aeb56818fde2f578d86de852083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a215f561837d77a7be8cd67afcf2eb46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a215f561837d77a7be8cd67afcf2eb46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da681b5534f903bbc83452e3a68eb277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da681b5534f903bbc83452e3a68eb277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\baab70db8320e35980f5b436f6c3f575\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\baab70db8320e35980f5b436f6c3f575\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8f7c6e1e7a434ecfa6109b23b9f8b8f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8f7c6e1e7a434ecfa6109b23b9f8b8f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2692a2501ebf60ca132b82ce1c915691\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Manny Munoz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2692a2501ebf60ca132b82ce1c915691\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_UWTU\UWTU\app\src\main\AndroidManifest.xml
