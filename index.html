@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>UWTutoring Finder</title>
+    <link href="index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <script src="index.js"></script>
+  </head>
+
+  <body class="mh-100">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-purple">
+      <a class="navbar-brand headline" href="index.html">UWTutoring</a>
+
+      <div class="text-dark">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active" id="tailored">
+            <a class="nav-link headline">All centers</a>
+          </li>
+          <li class="nav-item" id="all-centres">
+            <a class="nav-link headline">Your places</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main class="mh-100">
+      <div id="tailored-view" class="d-none">
+        <div class="d-flex justify-content-between container">
+          <div id="add-classes">
+            <h2>What classes are you having trouble with?</h2>
+            <button type="button" class="btn btn-purple">Add another class</button>
+            <button type="button" class="btn btn-gold">Find your centers</button>
+            <div class="col-auto my-1">
+              <select class="custom-select mr-sm-2">
+                <option selected>Subjects...</option>
+                <option value="CSE">CSE</option>
+                <option value="MATH">MATH</option>
+                <option value="STAT">STAT</option>
+                <option value="BIOLOGY">Biology</option>
+                <option value="PHYSICS">Physics</option>
+                <option value="ENGLISH">English</option>
+                <option value="CHEMISTRY">Chemistry</option>
+              </select>
+            </div>
+          </div>
+          <div id="selections" class="d-flex flex-column">
+            <h2>Centers for you:</h2>
+          </div>
+        </div>
+      </div>
+
+      <div id="all-view" class="container h-100 d-flex flex-column align-items-around justify-content-around">
+        <div class="row">
+          <div class="col-sm">
+            <a id="physics" class="d-flex align-items-center flex-column rounded" href="https://phys.washington.edu/study-center">
+              <i class="d-block text-purple fas fa-atom fa-5x"></i>
+              <span class="d-block text-dark">Physics Study Center</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="ic" class="d-flex align-items-center flex-column rounded" href="https://depts.washington.edu/ic/content/hours.php?style=graphics">
+              <i class="d-block text-purple fas fa-atlas fa-5x"></i>
+              <span class="d-block text-dark">Instructional Center</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="math" class="d-flex align-items-center flex-column rounded" href="https://sites.math.washington.edu/msc/">
+              <i class="d-block text-purple fas fa-square-root-alt fa-5x"></i>
+              <span class="d-block text-dark">Math Study Center</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm">
+            <a id="chemistry" class="d-flex align-items-center flex-column rounded" href="http://depts.washington.edu/chem/courses/StudyCenter.html">
+              <i class="d-block text-purple fas fa-flask fa-5x"></i>
+              <span class="d-block text-dark">Chemistry Study Center</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="coding" class="d-flex align-items-center flex-column rounded" href="https://intro.cs.washington.edu/ipl/">
+              <i class="d-block text-purple fas fa-code fa-5x"></i>
+              <span class="d-block text-dark">Introductory Programming Lab</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="stats" class="d-flex align-items-center flex-column rounded" href="https://www.stat.washington.edu/academics/tutoring">
+              <i class="d-block text-purple fas fa-chart-area fa-5x"></i>
+              <span class="d-block text-dark">Statistics Study Center</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm">
+            <a id="clue" class="d-flex align-items-center flex-column rounded" href="https://webster.uaa.washington.edu/asp/website/get-help/clue/drop-in-tutoring/">
+              <i class="d-block text-purple fas fa-atlas fa-5x"></i>
+              <span class="d-block text-dark">CLUE</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="writing" class="d-flex align-items-center flex-column rounded" href="https://depts.washington.edu/owrc/signup.php">
+              <i class="d-block text-purple fas fa-book fa-5x"></i>
+              <span class="d-block text-dark">Odegaard Writing Center</span>
+            </a>
+          </div>
+          <div class="col-sm">
+            <a id="biology" class="d-flex align-items-center flex-column rounded" href="http://tribetauw.weebly.com/tutoring.html">
+              <i class="d-block text-purple fas fa-dna fa-5x"></i>
+              <span class="d-block text-dark">Biology Study Lounge</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </body>
+</html>
